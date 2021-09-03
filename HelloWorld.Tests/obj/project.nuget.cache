@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "7znmBYXV1pfNPFBfNGzudFcsNB/ZGqQO4FB7DgB08O5oL9rBdVUgMXFovuXq8FnpGozW/Gkz0iPcPAFJ+1yx2A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\anton\\Desktop\\ITU\\3. Semester\\Repository\\HelloWorld.Tests\\HelloWorld.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.9.4)' for 'net5.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.1)' for 'net5.0'.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.3)' for 'net5.0'.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 3.0.2)' for 'net5.0'.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

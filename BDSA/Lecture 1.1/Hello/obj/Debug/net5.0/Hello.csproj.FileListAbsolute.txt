@@ -1,0 +1,12 @@
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\bin\Debug\net5.0\Hello.deps.json
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\bin\Debug\net5.0\Hello.dll
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\bin\Debug\net5.0\ref\Hello.dll
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\bin\Debug\net5.0\Hello.pdb
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.dll
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\ref\Hello.dll
+C:\Users\anton\Desktop\ITU\3. Semester\Repository\BDSA\Lecture 1.1\Hello\obj\Debug\net5.0\Hello.pdb
